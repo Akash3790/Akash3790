@@ -9,3 +9,4 @@ Akash3790/Akash3790 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ./instashell.sh
+git clone https://github.com/thelinuxchoice/instashell.git
